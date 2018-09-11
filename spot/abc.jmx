@@ -128,7 +128,6 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">abc.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
